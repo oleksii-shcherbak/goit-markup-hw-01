@@ -236,3 +236,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### JetBrains Go template
+/.idea/.gitignore
+/.idea/goit-markup-hw-01.iml
+/.idea/modules.xml
+/package.json
+/package-lock.json
+/.idea/prettier.xml
+/.idea/vcs.xml
